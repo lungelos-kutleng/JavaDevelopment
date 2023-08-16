@@ -1,0 +1,108 @@
+			Learning Java Development Guide
+
+1. Getting Started.
+	a) Introduction to C++ programming.
+	b) Setting up Codeblocks on Windows.
+	c) Setting up Codeblocks on MacOS.
+
+2. My First Program.
+	a) Comments in a C++ program.
+	b) Console Output statement.
+	c) Using namespace std.
+	d) Escape sequences.
+	e) System pause.
+
+3. Variables
+	a) Variable names.
+		- Useful variable names.
+		- Pre-defined keywords.
+		- Variable name declaration rules.
+		- Camel casing.
+	b) Console Input statement
+	c) Basic data types.
+		- int, float, char, string, bool, double.
+		- sizeof() operator.
+		- Keywords (INT_MIN, INT_MAX, UINT_MAX)
+		- Data type table (Type, Memory, Min & Max values)
+	d) Data type overflow.
+	e) Arithmetic operators (-, +, *, /, %).
+	f) ASCII table.
+		- Data type casting.
+		- Psyphoring & depsyphering messages.
+	d) Constants.
+
+5. Selection structures.
+	a) If statement.
+	b) If else statements.
+	c) Nested if else statements.
+	d) else if statement
+	e) Switch statement.
+		- break statement.
+		- default.
+
+6. Other operators (++, --).
+	a) Unary operators (++, --).
+		- Increment and decrement.
+	 	- Pre and Post increments.
+		- Pre and Post decrement.
+	b) Relational operators (<, >, <=, >=, ==, !=).
+	c) Logical operators (&&, ||, !).
+	d) Assignment operators (=, +=, -=, *=, /=, %=).
+	e) Precedence of operators.
+		- Arithmatic operators.
+		- Relational operators.
+		- Logical operators.
+		- Assignment operators.
+	f) Ternary (conditional) Operators (?).
+
+7. Repetition structure.
+	a) While loops.
+		- Counter controlled loop.
+		- Break and continue.
+		- Sentinal controlled loop.
+		- Infinte loop. 
+	b) Do while loops.
+	c) For loops.
+	d) Nested loops.
+	e) Debugging and breaking points.
+
+8. Functions.
+	a) Pre-defined functions.
+	b) Function definition.
+	c) Function prototypes.
+	d) Function parameters.
+		- Multiple parameters.
+		- Default parameters.
+	e) Function return statement.
+	f) Function return data types.
+
+9. Arrays.
+
+10. Lists.
+
+		Extra Resources
+1. Tables.
+2. Cheatsheets.
+3. Flowcharts.
+4. Exercises.
+5. Projects.
+
+		Example program ideas
+1. Basic calculator.
+2. Mad Libs Game.
+3. Finacial mathematics.
+4. BMI weight system.
+5. Guessing game.
+6. Number of days in a month.
+7. Determine numbers between 100-500 that are divisible by 3 & 5.
+8. Count the digits of a number.
+9. Determine the Factorial of a number.
+10. Write a number in reverse.
+11. User login system.
+12. Multiplications table.
+13. Drawing shapes. (#include <iomanip>)
+	a) Rectangles.
+	b) Right angnle triangles.
+	c) Reversed triangle.
+	d) Pyramid triangle.
+14. Determining prime numbers.
