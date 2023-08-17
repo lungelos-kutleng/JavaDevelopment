@@ -62,11 +62,11 @@ $ git switch BRANCH NAME
 	Merge specified branch into the current branch
 $ git merge BRANCH NAME
 
-Create a connection to a remote repository
-git remote add (NAME) (REPOSITORY URL)
+	Create a connection to a remote repository
+$ git remote add (NAME) (REPOSITORY URL)
 
-Push the committed changes to a remote directory
-git push (REMOTE) (BRANCH)
+	Push the committed changes to a remote directory
+$ git push (REMOTE) (BRANCH)
 
-Download the content from a remote repository
-git pull REMOTE
+	Download the content from a remote repository
+$ git pull REMOTE
